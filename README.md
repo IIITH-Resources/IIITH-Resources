@@ -21,6 +21,7 @@ These are the resources of our time, so these may or may not be the same for you
 #### ~ Sreeja Guduri
 #### ~ Shreya Bollimuntha
 #### ~ Gnaneswar Kulindala
+#### ~ Adnan Qidwai
 ----
 🚀 [Website UpTime Status Page](./Website-Status.md)
 
