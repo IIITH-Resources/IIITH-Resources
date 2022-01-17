@@ -30,8 +30,8 @@ I- IITH-Resources Forum :-
 
 - CPro :- ![Website](https://img.shields.io/website?down_color=red&down_message=Waiting&label=Page%20Status&style=plastic&up_color=blue&up_message=UP&url=https%3A%2F%2Fiiith-resources.github.io%2FComputer_Programming%2Findex.html) 
 
-- HSL-1 :- ![Website](https://img.shields.io/website?down_color=red&down_message=Waiting&label=Page%20Status&style=plastic&up_color=blue&up_message=UP&url=https%3A%2F%2Fiiith-resources.github.io%2FDiscrete_Structures%2Findex.html)
+- HSL-1 :- ![Website](https://img.shields.io/website?down_color=red&down_message=Waiting&label=Page%20Status&style=plastic&up_color=blue&up_message=UP&url=https%3A%2F%2Fiiith-resources.github.io%2FHuman_Sciences_Lab1%2Findex.html)
 
-- NeSS :- ![Website](https://img.shields.io/website?down_color=red&down_message=Waiting&label=Page%20Status&style=plastic&up_color=blue&up_message=UP&url=https%3A%2F%2Fiiith-resources.github.io%2FDiscrete_Structures%2Findex.html)
+- NeSS :- ![Website](https://img.shields.io/website?down_color=red&down_message=Waiting&label=Page%20Status&style=plastic&up_color=blue&up_message=UP&url=https%3A%2F%2Fiiith-resources.github.io%2FNetworks_Signals_and_Systems%2Findex.html)
 
 <!--2. Semester 2-->
