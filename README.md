@@ -40,6 +40,7 @@ Course/s Table
 |  | [Discrete Structures](https://github.com/IIITH-Resources/Discrete_Structures) | MA5.101 | Ashok Kumar Das | 4 | Maths Core | 
 |  | [Digital Systems & Microcontrollers](https://github.com/IIITH-Resources/Digital_System-Microcontrollers) | EC2.101 | Aftab M. Hussain | 5 | Programme (CXX/ECX) Core | 
 |  | [Human Sciences Lab-1](https://github.com/IIITH-Resources/Human_Sciences_Lab1) | HS7.101 | Radhika Krishnan | 2 | Programme (CHD) Core |
+|  | [Introduction to Linguistics-1](https://github.com/IIITH-Resources/Introduction_To_Linguistics-1) | CL1.101 | Aditi Mukherjee | 4 | Programme (CLD) Core |
 |  | [Networks, Signals and Systems](https://github.com/IIITH-Resources/Networks_Signals_and_Systems) | EC5.101 | Santosh Nannuru ; Anshu Sarje | 4 | Programme (ECX) Core |
 | [2]() |  |  |  |  |  | 
 | [3]() |  |  |  |  |  | 
