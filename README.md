@@ -23,6 +23,7 @@ These are the resources of our time, so these may or may not be the same for you
 #### ~ Gnaneswar Kulindala
 #### ~ Adnan Qidwai
 #### ~ Shubhankar Kamthankar
+#### ~ Brahad Kokad
 ----
 🚀 [Website UpTime Status Page](./Website-Status.md) [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/bsj1.svg)](https://betteruptime.com/?utm_source=status_badge)
 
