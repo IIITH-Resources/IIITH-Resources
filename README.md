@@ -14,7 +14,7 @@
 # ⚖️ ![GitHub License](https://img.shields.io/github/license/IIITH-Resources/IIITH-Resources?label=License&style=plastic&logo=Github)
 ### 📝  My IIITH Resources ![Website Status](https://img.shields.io/website?down_color=red&down_message=Waiting&label=IIITH-Resources%20Website%20Status&style=plastic&up_color=green&up_message=UP&url=https%3A%2F%2Fbhavberi.github.io%2FIIITH-Resources%2F)
 
-These are the resources of our time, so these may or may not be the same for you. Moreover, rather than checking the answers for the quizzes/Assignments, better to solve them yourselves, so that they help you in the future too.
+These are the resources of our time, so these may or may not be the same for you. Moreover, rather than checking for answers to quiz/assignments better solve them yourselves, so you develop a better understanding of the concepts and can apply them in future too.
 
 ### ~ Bhav Beri
 #### ~ Maharnav Singhal
@@ -54,7 +54,7 @@ Course/s Table
 ![Total Courses Added](https://img.shields.io/badge/Total%20Courses%20Added-5-white)
 
 ----
-## Liked the Page & wanna Contribute 🎉
+## Liked the Page & wanna contribute? 🎉
 - Create a pull request with the material
 - Create an issue for any suggestions/corrections
 - Go to [Contribute Page of Website](https://bhavberi.github.io/IIITH-Resources/#contribute)
