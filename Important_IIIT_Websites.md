@@ -1,8 +1,8 @@
 # Important IIIT Websites
 
 ### Academics Related
-- [Course Moodle](courses.iiit.ac.in)
-- [IMS](ims.iiit.ac.in)
+- [Course Moodle](courses.iiit.ac.in) _Needs VPN_
+- [IMS](ims.iiit.ac.in) _Needs VPN_
 - [Online Judge](oj.iiit.ac.in) _Needs VPN_
 - [E-Learn/Open EDX](elearn.iiit.ac.in)
 - [Library](library.iiit.ac.in/)
